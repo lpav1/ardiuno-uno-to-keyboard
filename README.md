@@ -8,7 +8,7 @@ https://mitchtech.net/arduino-usb-hid-keyboard/
 
 https://www.microchip.com/en-us/development-tool/flip
 
-# Download for Flip (tool to flash the firmware)
+# download for Flip (tool to flash the firmware)
 https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/JRE-Flip-Installer-3.4.7.112.exe
 
 This directory is based of the USB Rubby Ducky, and includes a program 
