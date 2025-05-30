@@ -3,7 +3,9 @@ Turn an ardiuno uno board into a keyboard emulator to inject keystokes and other
 
 # helpful links for setting the ardiuno uno's firmware
 https://youtu.be/vn-Ulc1_YBM?si=md0EGZcPu2uArrxp
+
 https://mitchtech.net/arduino-usb-hid-keyboard/
+
 https://www.microchip.com/en-us/development-tool/flip
 
 # Download for Flip (tool to flash the firmware)
